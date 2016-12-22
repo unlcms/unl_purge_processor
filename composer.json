@@ -1,0 +1,12 @@
+{
+  "name": "unlcms/unl_purge_processor",
+  "description": "Processes the queue when a node is saved.",
+  "type": "drupal-module",
+  "authors": [
+    {
+      "name": "Eric Rasmussen (ericras)",
+      "homepage": "https://www.drupal.org/u/ericras",
+      "role": "Maintainer"
+    }
+  ]
+}

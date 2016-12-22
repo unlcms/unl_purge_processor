@@ -1,0 +1,8 @@
+name: UNL processor
+type: module
+description: 'Processes the queue when a node is saved.'
+package: "Purge - processors"
+core: 8.x
+version: 1.x
+dependencies:
+  - purge
